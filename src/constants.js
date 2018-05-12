@@ -1,7 +1,7 @@
 var constants = {
- 
-    ALL:'all',
-    COMPLETED:'completed'
+
+  ALL: 'all',
+  COMPLETED: 'completed'
 };
 
 module.exports = constants;
